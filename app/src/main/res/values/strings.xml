@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="bahasa">Bahasa Indonesia</string>
+</resources>

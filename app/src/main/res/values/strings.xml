@@ -5,4 +5,9 @@
     <string name="english">English</string>
     <string name="hindi">हिंदी</string>
     <string name="bahasa">Bahasa Indonesia</string>
+
+    <string name="title_how_it_works">How does it work?</string>
+    <string name="text_one">People around the world\ncome together to write poems</string>
+    <string name="text_two">One person sets the topic\n&amp; writes the first line</string>
+    <string name="text_three">Others will add to it\n&amp; thats how you JAM!</string>
 </resources>
